@@ -4,8 +4,6 @@
 }
 .wrapper {
     background-color: #000000d1;
-    height: 100vh;
-    padding-top: 50px;
 }
 h1 {
     font-size: 62px;
@@ -41,10 +39,12 @@ strong {
     display: flex;
 }
 .moods div img {
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
 }
-
+.neighboors {
+    padding-bottom: 20px;
+}
 .neighboors h2 {
     margin-bottom: 12px;
 }
