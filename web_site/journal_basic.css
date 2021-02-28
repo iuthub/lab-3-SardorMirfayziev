@@ -20,14 +20,17 @@ blockquote {
 
 body {
 	font-family: "Georgia";
-	color: #009097;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+	text-transform: capitalize;
 }
 
 
 h1, h2 {
 	font-weight: normal;
 	font-family: "Century Gothic";
-	margin: 3px;
+	margin: 0;
 	padding: 0px;
 }
 

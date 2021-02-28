@@ -1,0 +1,53 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.wrapper {
+    background-color: #000000d1;
+    height: 100vh;
+    padding-top: 50px;
+}
+h1 {
+    font-size: 62px;
+}
+.name .title {
+    margin-bottom: 30px;
+}
+strong {
+    color: #6bce00;
+}
+.classess h2 {
+    margin-top: 21px;
+    margin-bottom: 20px;
+}
+.classess li {
+    margin-bottom: 7px;
+}
+
+.classess {
+    margin-bottom: 20px;
+}
+.classess li a {
+    color: red;
+}
+.moods h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.moods {
+    margin-bottom: 20px;
+}
+.moods div {
+    display: flex;
+}
+.moods div img {
+    width: 200px;
+    height: 200px;
+}
+
+.neighboors h2 {
+    margin-bottom: 12px;
+}
+.neighboors ul li {
+    margin-bottom: 12px;
+}
