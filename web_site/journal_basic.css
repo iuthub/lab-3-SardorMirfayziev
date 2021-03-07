@@ -20,18 +20,21 @@ blockquote {
 
 body {
 	font-family: "Georgia";
-	color: #fff;
 	margin: 0;
+	color: #004ec4;
 	padding: 0;
 	text-transform: capitalize;
 }
 
-
-h1, h2 {
+p {
+	margin: 0;
+}
+h1, h2 , h3{
 	font-weight: normal;
 	font-family: "Century Gothic";
 	margin: 0;
 	padding: 0px;
+	color: #004ec4;
 }
 
 img {
